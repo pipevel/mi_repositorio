@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../NFT/contracts"
+		},
+		{
+			"path": "../../../../../NFT/ignition"
+		},
+		{
+			"path": "../../../../../NFT/node_modules"
+		},
+		{
+			"path": "../../../../../NFT/test"
+		}
+	]
+}
